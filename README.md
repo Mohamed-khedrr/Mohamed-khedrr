@@ -112,7 +112,6 @@
     alt="mohamed-khedrr"
   />
 </p>
-<br />
 <p>
   &nbsp;<img
     align="center"
