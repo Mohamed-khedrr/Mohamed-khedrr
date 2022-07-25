@@ -11,11 +11,10 @@
 <!--=========================  -->
 <br />
 <img
+  alt="Night Coding"
+  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
   align="right"
-  src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
-  width="300px"
 />
-
 - :school: I am a Frontend Developer
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/15h4YsGZtpe7sPXT2NmF42xR1lOQiFIGH).
 - :nerd_face: Always `learning new things`
