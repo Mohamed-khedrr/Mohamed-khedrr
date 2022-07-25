@@ -15,13 +15,15 @@
   src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
   align="right"
 />
+
+
 - :school: I am a Frontend Developer
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is 
- [MY RESUME](https://drive.google.com/drive/folders/15h4YsGZtpe7sPXT2NmF42xR1lOQiFIGH).
+   [MY RESUME](https://drive.google.com/drive/folders/15h4YsGZtpe7sPXT2NmF42xR1lOQiFIGH).
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 - 👨‍💻 All of my projects are available at
-[https://portfolio66664.web.app/](https://portfolio66664.web.app/) 
+  [https://portfolio66664.web.app/](https://portfolio66664.web.app/) 
 - 💬 Ask
 me about **JavaScript** 
 - 📫 How to reach me **moh7amed.khedrr@gmail.com** 
