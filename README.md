@@ -16,7 +16,6 @@
   width="300px"
 />
 
-
 <!--=========================  -->
 
 <h3 align="left">Connect with me:</h3>
@@ -113,7 +112,7 @@
     alt="mohamed-khedrr"
   />
 </p>
-
+<br />
 <p>
   &nbsp;<img
     align="center"
