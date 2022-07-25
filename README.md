@@ -16,7 +16,8 @@
   align="right"
 />
 - :school: I am a Frontend Developer
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/15h4YsGZtpe7sPXT2NmF42xR1lOQiFIGH).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is 
+ [MY RESUME](https://drive.google.com/drive/folders/15h4YsGZtpe7sPXT2NmF42xR1lOQiFIGH).
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 - 👨‍💻 All of my projects are available at
