@@ -38,7 +38,7 @@ me about **JavaScript**
     ><img
       src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"
   /></a>
-  <a href="https://codeforces.com/profile/mohamed_k" title="LinkedIn"
+  <a href="https://www.linkedin.com/in/mohamed-khedr-437b071bb" title="LinkedIn"
     ><img
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
   /></a>
