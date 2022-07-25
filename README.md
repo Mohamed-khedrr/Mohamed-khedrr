@@ -13,20 +13,13 @@
 <img
   align="right"
   src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
-  width="250px"
+  width="300px"
 />
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=mohamed-khedrr"
-      alt="mohamed-khedrr"
-  /></a>
-</p>
 
 - 👨‍💻 All of my projects are available at
-[https://portfolio66664.web.app/](https://portfolio66664.web.app/) - 💬 Ask me
-about **JavaScript** - 📫 How to reach me **moh7amed.khedrr@gmail.com** - 📄
-Know about my experiences
+[https://portfolio66664.web.app/](https://portfolio66664.web.app/) - 💬 Ask
+meabout **JavaScript** - 📫 How to reach me **moh7amed.khedrr@gmail.com** -
+📄Know about my experiences
 [https://drive.google.com/drive/folders/15h4YsGZtpe7sPXT2NmF42xR1lOQiFIGH](https://drive.google.com/drive/folders/15h4YsGZtpe7sPXT2NmF42xR1lOQiFIGH)
 
 <!--=========================  -->
