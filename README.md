@@ -31,7 +31,7 @@ me about **JavaScript**
 <br>
 <!--=========================  -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Accounts:</h3>
 
 <p align="left">
   <a href="mailto:mo7amed.khedrr@gmail.com" title="Gmail"
