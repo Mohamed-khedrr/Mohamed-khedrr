@@ -16,12 +16,17 @@
   width="300px"
 />
 
+- :school: I am a Frontend Developer
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/15h4YsGZtpe7sPXT2NmF42xR1lOQiFIGH).
+- :nerd_face: Always `learning new things`
+- 🐼 Doing my best 
 - 👨‍💻 All of my projects are available at
-[https://portfolio66664.web.app/](https://portfolio66664.web.app/) - 💬 Ask
-meabout **JavaScript** - 📫 How to reach me **moh7amed.khedrr@gmail.com** -
-📄Know about my experiences
-[https://drive.google.com/drive/folders/15h4YsGZtpe7sPXT2NmF42xR1lOQiFIGH](https://drive.google.com/drive/folders/15h4YsGZtpe7sPXT2NmF42xR1lOQiFIGH)
+[https://portfolio66664.web.app/](https://portfolio66664.web.app/) 
+- 💬 Ask
+me about **JavaScript** 
+- 📫 How to reach me **moh7amed.khedrr@gmail.com** 
 
+<br>
 <!--=========================  -->
 
 <h3 align="left">Connect with me:</h3>
@@ -104,11 +109,7 @@ meabout **JavaScript** - 📫 How to reach me **moh7amed.khedrr@gmail.com** -
       src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"
       alt="XD"
   /></a>
-  <a href="https://www.adobe.com/mena_ar/products/xd.html" title="Figma"
-    ><img
-      src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"
-      alt="Figma"
-  /></a>
+
 </p>
 
 <p>
@@ -118,7 +119,6 @@ meabout **JavaScript** - 📫 How to reach me **moh7amed.khedrr@gmail.com** -
     alt="mohamed-khedrr"
   />
 </p>
-<br />
 <p>
   &nbsp;<img
     align="center"
