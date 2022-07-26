@@ -49,8 +49,7 @@ me about **JavaScript**
 </p>
 <!--  -->
 
-<h3 align="left">Languages and Tools:</h3>
-## 🛠 Languages and Tools
+<h3 align="left">🛠 Languages and Tools:</h3>
 <br />
 <p align="center">
   <a href="https://github.com/" title="GitHub"
