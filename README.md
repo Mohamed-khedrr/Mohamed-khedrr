@@ -16,17 +16,16 @@
   align="right"
 />
 
-
 - :school: I am a Frontend Developer
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is 
-   [MY RESUME](https://drive.google.com/file/d/1nOmQuB0TAXXuB1quLwzThuX_9m1mwTD_/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is
+  [MY RESUME](https://drive.google.com/file/d/1nOmQuB0TAXXuB1quLwzThuX_9m1mwTD_/view?usp=sharing).
 - :nerd_face: Always `learning new things`
-- 🐼 Doing my best 
-- 👨‍💻 All of my projects are available at 
-  [MY PORTFOLIO](https://portfolio66664.firebaseapp.com/) 
+- 🐼 Doing my best
+- 👨‍💻 All of my projects are available at
+  [MY PORTFOLIO](https://portfolio66664.firebaseapp.com/)
 - 💬 Ask
-me about **JavaScript** 
-- 📫 How to reach me **moh7amed.khedrr@gmail.com** 
+  me about **JavaScript**
+- 📫 How to reach me **moh7amed.khedrr@gmail.com**
 
 <br>
 <!--=========================  -->
@@ -68,44 +67,49 @@ me about **JavaScript**
       alt="CSS3"
   /></a>
 
-  <a href="https://www.javascript.com/" title="JavaScript"
+<a href="https://www.javascript.com/" title="JavaScript"
     ><img
       src="https://img.shields.io/badge/javascript-%23BB9F06.svg?style=for-the-badge&logo=javascript&logoColor=white"
       alt="JavaScript"
   /></a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript"
+<a href="https://www.typescriptlang.org/" title="TypeScript"
     ><img
       src="https://img.shields.io/badge/typescript-%233178c6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="TypeScript"
   /></a>
 
-  <a href="https://angular.io/start" title="Angular"
+<a href="https://angular.io/start" title="Angular"
     ><img
       src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
       alt="Angular"
   /></a>
+<a href="https://jquery.com" title="jQuery"
+    ><img
+      src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
+      alt="jQuery"
+  /></a>
 
-  <a href="https://getbootstrap.com/" title="Bootstrap"
+<a href="https://getbootstrap.com/" title="Bootstrap"
     ><img
       src="https://img.shields.io/badge/bootstrap-%237532FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="Bootstrap"
   /></a>
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code"
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"
     ><img
       src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
       alt="Visual Studio Code"
   /></a>
-  <a href="https://www.java.com/en/" title="Java"
+<a href="https://www.java.com/en/" title="Java"
     ><img
       src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
       alt="Java"
   /></a>
-  <a href="https://sass-lang.com/" title="Sass"
+<a href="https://sass-lang.com/" title="Sass"
     ><img
       src="https://img.shields.io/badge/sass-%23BF4080.svg?style=for-the-badge&logo=sass&logoColor=white"
       alt="Sass"
   /></a>
-  <a href="https://www.adobe.com/mena_ar/products/xd.html" title="XD"
+<a href="https://www.adobe.com/mena_ar/products/xd.html" title="XD"
     ><img
       src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"
       alt="XD"
